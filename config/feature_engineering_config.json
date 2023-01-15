@@ -1,0 +1,55 @@
+{
+  "num_cores": 3,
+  "path_in": "..//preprocessed_out",
+  "gaze_file_pattern_to_read": "*_gaze_remodnav.csv",
+  "event_file_pattern_to_read": "*_event_remodnav.csv",
+  "path_out": "..//features_out",
+  "eye_tracker_hz": 60,
+  "sliding_window_settings": {
+    "window_size_s": 60,
+    "step_size_s": 1
+  },
+  "scenarios": [
+    "rural",
+    "urban",
+    "highway"
+  ],
+  "states": [
+    "no_alcohol",
+    "moderate",
+    "severe"
+  ],
+  "ids": [
+    "d-001",
+    "d-002",
+    "d-003",
+    "d-004",
+    "d-005",
+    "d-006",
+    "d-007",
+    "d-008",
+    "d-010",
+    "d-011",
+    "d-012",
+    "d-013",
+    "d-014",
+    "d-015",
+    "d-016",
+    "d-017",
+    "d-018",
+    "d-020",
+    "d-021",
+    "d-023",
+    "d-024",
+    "d-025",
+    "d-026",
+    "d-029",
+    "d-030",
+    "d-031",
+    "d-032",
+    "d-033",
+    "d-034",
+    "d-035",
+    "d-test"
+  ]
+}

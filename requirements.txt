@@ -1,0 +1,6 @@
+pandas==1.4.4
+remodnav==1.1.1
+numpy==1.23.2
+joblib==1.1.0
+tobii-research==1.8.0
+pyinstaller==5.4.1
