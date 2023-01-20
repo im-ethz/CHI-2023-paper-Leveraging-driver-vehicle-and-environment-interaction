@@ -21,12 +21,28 @@ We will describe in the following on how to get started with this code in more d
 
 BiBTeX:
 ```
-TBA
+@inproceedings{10.1145/3411764.3446865,
+author = {Koch, Kevin and Maritsch, Martin and van Weenen, Eva and Feuerriegel, Stefan and Pfäffli, Matthias and Fleisch, Elgar and Weinmann, Wolfgang and Wortmann, Felix},
+title = {Leveraging driver vehicle and environment interaction: Machine learning using driver monitoring cameras to detect drunk driving},
+year = {2023},
+isbn = {97814503942152304},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3544548.3580975},
+doi = {10.1145/3544548.3580975},
+booktitle = {Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems},
+articleno = {293},
+numpages = {32},
+keywords = {Field study, Mindfulness, In-vehicle interventions, Music, Natural driving, Psychology, Well-being},
+location = {Hamburg, Germany},
+series = {CHI '23}
+}
 ```
 
 ACM Ref Citation:
 
-**TBA**
+Kevin Koch, Martin Maritsch, Eva van Weenen, Stefan Feuerriegel, Matthias Pfäffli, Elgar Fleisch, Wolfgang Weinmann, and Felix Wortmann. 2023. Leveraging driver vehicle and environment interaction: Machine learning using driver monitoring cameras to detect drunk driving. In *Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI ’23), April 23–28, 2023, Hamburg, Germany.* ACM, New York, NY, USA, 32 pages.
+https://doi.org/10.1145/3544548.3580975
 
 ## Contact
 Please contact [Kevin Koch](kevin.koch@unisg.ch) or [Martin Maritsch](mmaritsch@ethz.ch) for questions.
