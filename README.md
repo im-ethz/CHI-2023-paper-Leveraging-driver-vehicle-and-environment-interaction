@@ -21,7 +21,7 @@ We will describe in the following on how to get started with this code in more d
 
 BiBTeX:
 ```
-@inproceedings{10.1145/3411764.3446865,
+@inproceedings{10.1145/3544548.3580975,
 author = {Koch, Kevin and Maritsch, Martin and van Weenen, Eva and Feuerriegel, Stefan and Pfäffli, Matthias and Fleisch, Elgar and Weinmann, Wolfgang and Wortmann, Felix},
 title = {Leveraging driver vehicle and environment interaction: Machine learning using driver monitoring cameras to detect drunk driving},
 year = {2023},
